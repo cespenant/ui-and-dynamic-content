@@ -1,0 +1,83 @@
+body {
+    font-family: fira sans;
+    text-align: center;
+}
+
+#block {
+    max-width: 35em;
+    background-color: #524946;
+        margin: 0 auto;
+}
+
+
+li {
+    color: white;
+    text-align: left;
+}
+
+#masthead {
+    width: 80%;
+    margin: 0 auto;    
+}
+
+.far {
+    font-size: 6em;
+    padding: 0.5em;
+    color: #BD9C91;
+}
+
+h1 {
+    color: white;
+    font-size: 3em;
+    margin-bottom: 0.8em;
+}
+
+p {
+    margin-bottom: 2em;
+    color: #CFAB9D;
+}
+
+#myList {
+    width: 80%;
+}
+
+input, button {
+    width: 80%;
+}
+
+input {
+    margin-bottom: 2em;
+    padding: 1em;
+}
+
+button {
+    background: #786C67;
+    border: none;
+    color: white;
+    padding: 1em;
+    width: 85%;
+    margin-bottom: 2em;
+}
+
+button:hover {
+    background: #CFAB9D;
+    cursor: pointer;
+}
+
+footer {
+    width: 80%;
+    margin: 0 auto;
+}
+
+footer .fab {
+    font-size: 1.5em;
+    padding: 1em;
+    padding-top: 0.5em;
+    color: #CFAB9D;
+    margin-bottom: 1.5em;
+}
+
+footer i:hover {
+    cursor: pointer;
+    color: white;
+}
